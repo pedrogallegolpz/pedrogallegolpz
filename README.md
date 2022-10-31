@@ -23,7 +23,7 @@ NLP and Computer Vision. They are my main fields of study. I also made researchs
  
 [![scikit-learn](https://img.shields.io/badge/scikit−learn-%23F09437.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
 [![Keras](https://img.shields.io/badge/keras-%23C90000.svg?&style=for-the-badge&logo=keras&logoColor=white)](#)
-[![Pytorch](https://img.shields.io/badge/pytorch-%23C90000.svg?&style=for-the-badge&logo=keras&logoColor=white)](#)
+[![Pytorch](https://img.shields.io/badge/pytorch-%23C90000.svg?&style=for-the-badge&logo=pytorch&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-%23ff6f00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 
 [![matplotlib](https://img.shields.io/badge/matplotlib-%23DDC359.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
