@@ -16,7 +16,7 @@ NLP and Computer Vision. They are my main fields of study. I also made researchs
 [![Java](https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://github.com/mianfg?tab=repositories&language=java)
 
 
-#### 🛠️ Tools I regularly use
+#### 🛠️ Main tools i use:
  
 [![pandas](https://img.shields.io/badge/pandas-%23120751.svg?&style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![Numpy](https://img.shields.io/badge/numpy-%23120751.svg?&style=for-the-badge&logo=numpy&logoColor=white)](#)
