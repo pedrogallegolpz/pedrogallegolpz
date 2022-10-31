@@ -2,7 +2,7 @@
 I'm Pedro, currently a junior Data Scientist. I use github to upload personal projects, researches and more. I love to share my knowledge so, here you can find a lot of interesting projects! You can see my beta website here: [pedro-gallego-lopez-website.onrender.com](https://pedro-gallego-lopez-website.onrender.com).
 
 #### 🎓 Studies
-I've finished my studies on Mathematics and Computer Sciences (AI specialty) on 2022 at UGR ([the third best AI University in Europe 22/23](https://www.usnews.com/education/best-global-universities/artificial-intelligence?region=europe)). I focused on AI subjects where I achieve a Honor mention in Machine Learning and Metaheuristics. So you can find so nice content in my github about these fields.
+I've finished my studies on Mathematics and Computer Sciences (AI specialty) on 2022 at UGR ([the third best AI University in Europe 2022/2023](https://www.usnews.com/education/best-global-universities/artificial-intelligence?region=europe)). I focused on AI subjects where I achieve a Honor mention in Machine Learning and Metaheuristics. So you can find so nice content in my github about these fields.
 
 #### 💼 I'm currently working on...
 NLP and Computer Vision. They are my main fields of study. I also made researchs about data wrangling.
