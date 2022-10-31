@@ -8,18 +8,18 @@ I've finished my studies on Mathematics and Computer Sciences (AI specialty) on 
 NLP and Computer Vision. They are my main fields of study. I also made researchs about data wrangling.
 
 
-> **Programming languages** I work with: 
-> 
-> [![Python](https://img.shields.io/badge/python-%233776ab.svg?&style=for-the-badge&logo=python&logoColor=white)](https://github.com/mianfg?tab=repositories&language=python)
+#### 💻 Programming languages I work with: 
+ 
+[![Python](https://img.shields.io/badge/python-%233776ab.svg?&style=for-the-badge&logo=python&logoColor=white)](https://github.com/mianfg?tab=repositories&language=python)
 [![C++](https://img.shields.io/badge/c%2B%2B-%2300599c.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/mianfg?tab=repositories&language=c%2B%2B)
 [![C](https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)](https://github.com/mianfg?tab=repositories&language=c)
 [![Java](https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://github.com/mianfg?tab=repositories&language=java)
 
 
-> **Tools** I regularly use
-> 
-> [![pandas](https://img.shields.io/badge/pandas-%23120751.svg?&style=for-the-badge&logo=pandas&logoColor=white)](#)
- [![Numpy](https://img.shields.io/badge/numpy-%23120751.svg?&style=for-the-badge&logo=pandas&logoColor=white)](#)
+#### 🛠️ Tools I regularly use
+ 
+[![pandas](https://img.shields.io/badge/pandas-%23120751.svg?&style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![Numpy](https://img.shields.io/badge/numpy-%23120751.svg?&style=for-the-badge&logo=pandas&logoColor=white)](#)
  
 [![scikit-learn](https://img.shields.io/badge/scikit−learn-%23F09437.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
 [![Keras](https://img.shields.io/badge/keras-%23C90000.svg?&style=for-the-badge&logo=keras&logoColor=white)](#)
@@ -32,9 +32,8 @@ NLP and Computer Vision. They are my main fields of study. I also made researchs
 [![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 
 
-> Things I'm currently **learning**
-> 
-> [![Amazon Web Services](https://img.shields.io/badge/amazon%20web%20services-%23F78A00.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+#### 🌱 I'm currently learning...
+[![Amazon Web Services](https://img.shields.io/badge/amazon%20web%20services-%23F78A00.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/google%20cloud-%234081EC.svg?&style=for-the-badge&logo=googlecloud&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/power%20bi-%23EBC900.svg?&style=for-the-badge&logo=powerbi&logoColor=black)](#)
 
