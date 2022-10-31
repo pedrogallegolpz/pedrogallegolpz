@@ -19,7 +19,7 @@ NLP and Computer Vision. They are my main fields of study. I also made researchs
 #### 🛠️ Tools I regularly use
  
 [![pandas](https://img.shields.io/badge/pandas-%23120751.svg?&style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![Numpy](https://img.shields.io/badge/numpy-%23120751.svg?&style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![Numpy](https://img.shields.io/badge/numpy-%23120751.svg?&style=for-the-badge&logo=numpy&logoColor=white)](#)
  
 [![scikit-learn](https://img.shields.io/badge/scikit−learn-%23F09437.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
 [![Keras](https://img.shields.io/badge/keras-%23C90000.svg?&style=for-the-badge&logo=keras&logoColor=white)](#)
