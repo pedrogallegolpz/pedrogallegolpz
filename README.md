@@ -39,7 +39,7 @@ NLP and Computer Vision. They are my main fields of study. I also made researchs
 
 
 #### 📫 How to reach me: 
-- LinkedIn: [in/pedro-gallego-lópez/](https://www.linkedin.com/in/pedro-gallego-l%C3%B3pez-414a14173/]
+- LinkedIn: ([in/pedro-gallego-lópez/](https://www.linkedin.com/in/pedro-gallego-l%C3%B3pez-414a14173/])
 - Email: pedrogallegolop@gmail.com
 
 
