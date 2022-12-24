@@ -10,10 +10,10 @@ NLP and Computer Vision. They are my main fields of study. I also made researchs
 
 #### 💻 Programming languages I work with: 
  
-[![Python](https://img.shields.io/badge/python-%233776ab.svg?&style=for-the-badge&logo=python&logoColor=white)](https://github.com/mianfg?tab=repositories&language=python)
-[![C++](https://img.shields.io/badge/c%2B%2B-%2300599c.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/mianfg?tab=repositories&language=c%2B%2B)
-[![C](https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)](https://github.com/mianfg?tab=repositories&language=c)
-[![Java](https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://github.com/mianfg?tab=repositories&language=java)
+[![Python](https://img.shields.io/badge/python-%233776ab.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/c%2B%2B-%2300599c.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![C](https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)](#)
+[![Java](https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white)](#)
 
 
 #### 🛠️ Main tools i use:
